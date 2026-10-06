@@ -1,0 +1,8 @@
+__pycache__/
+venv-build/
+
+# Build output (PyInstaller, the installer, downloaded build tools)
+build/
+dist/
+downloads/
+inno/
